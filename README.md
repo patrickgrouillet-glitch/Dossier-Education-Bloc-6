@@ -8,8 +8,8 @@ Projet Final de la DAFS-FT-17 (Jedha Bootcamp).
 # A propos du Dataset  
 
 Ce jeu de données contient les données du baccalauréat en France par académie.  
-Les données sont aggrégées par académie, voie, statut du candidat, genre, série, diplôme et session pour les années 2021 à 2025.  
-Les données numériques aggrégées sont le nombre d'inscrits, de présents, d'admis, de refusés, de mentions obtenues selon les différentes mentions et nombre de passage au rattrapage.  
+Les données sont agrégées par académie, voie, statut du candidat, genre, série, diplôme et session pour les années 2021 à 2025.  
+Les données numériques agrégées sont le nombre d'inscrits, de présents, d'admis, de refusés, de mentions obtenues selon les différentes mentions et nombre de passage au rattrapage.  
 
 # Problèmatique liée au projet  
 
@@ -26,7 +26,7 @@ https://www.data.gouv.fr/datasets/le-baccalaureat-par-academie
 
 # Environnement
 
-Vous devez installer les différentes librairies d'envrionnement pour executer les notebooks présent dans la section "mention" et "streamlit"  
+Vous devez installer les différentes librairies d'environnement pour exécuter les notebooks présents dans la section "mention" et "streamlit"  
 Ecrivez dans votre terminal :  
 
 ```powershell  
@@ -83,10 +83,10 @@ Pour la section "streamlit" présent dans le dossier "streamlit" de notre reposi
   dataset original et dataset nettoyé pour le Machine Learning des mentions  
   
 📁 mention :  
-  EDA du datset dédié aux mentions accompagné de 3 approches de prédictions grâce à du Machine Learning  
+  EDA du dataset dédié aux mentions accompagné de 3 approches de prédictions grâce à du Machine Learning  
   
 📁 streamlit :  
-  Machine Learning pour prédire le taux de réussite et application streamlit associé (hégergé sur huggingface)  
+  Machine Learning pour prédire le taux de réussite et application streamlit associé (hébergé sur huggingface)  
   
 📁 powerBI :  
   présentation powerBI du dataset  
@@ -102,7 +102,3 @@ https://huggingface.co/spaces/smithhannah/projet_taux_reussite_bac
 - Patrick Grouillet 
 - Antoine Smith 
 - Grégory Augis 
-
-# Demoday
-
-Date : 2026-03-27
